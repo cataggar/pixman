@@ -54,3 +54,6 @@ test/trap-crasher
 *.ilk
 *.obj
 *.exe
+
+.zig-cache/
+zig-out/

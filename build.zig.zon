@@ -1,0 +1,14 @@
+.{
+    .name = .pixman,
+    .version = "0.46.5",
+    .fingerprint = 0x16aa7fe7e0e8a1e4,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "pixman",
+        "COPYING",
+        "README.md",
+    },
+}
